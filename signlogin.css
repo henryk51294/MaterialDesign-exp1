@@ -1,0 +1,57 @@
+.animated-option-button, #addprofpic{
+    -fx-pref-width: 50px;
+    -fx-background-color: #44b449;
+    -fx-background-radius: 50px;
+    -fx-pref-height: 50px;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-radius: 50px;
+    -fx-border-width: 4px;
+}
+.animated-option-sub-button, #profPic{
+    -fx-background-color: #43609c;
+}
+.animated-option-sub-button2{
+    -fx-background-color: rgb(203,104,96);
+}
+.animated-option-sub-button3{
+    -fx-background-color: #3a9b4b;
+}
+#img{
+    -fx-border-radius: 50%;
+}
+#username{
+    /*-fx-background-color: #EBE6E2;*/
+}
+#title{
+    -fx-font-size:24px;
+    -fx-text-fill:brown;
+}
+#forgotPassword{
+    /*-fx-text-fill:#F5F0EA;*/
+    -fx-text-fill:#EBE6E2;
+}
+.root{
+    /*-fx-background: transparent;*/
+    /*-fx-background: white;*/
+    -fx-background-color:transparent;
+}
+#pane{
+    -fx-background-color:white;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5) ,5,0,1,1);
+}
+#trial{
+    -fx-border-color: #4caf50;
+    -fx-border-width: 0 0 .5 0;
+    -fx-background-color: transparent;
+}
+#sigin{
+    -fx-background-color:#51BFA4;
+}
+#signup{
+    -fx-background-color:transparent;
+    -fx-text-fill:#51BFA4;
+    -fx-border-color: #51BFA4;
+    -fx-border-radius: 5px;
+    -fx-border-width: .5;
+}
